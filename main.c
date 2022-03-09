@@ -1,5 +1,5 @@
 #include <assert.h>
-#include "tasks\string_.h"
+#include "string_.h"
 
 void test_findNonSpace_NoSymbols() {
     char string[] = "\t \n    \0";
